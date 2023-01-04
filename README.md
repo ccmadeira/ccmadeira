@@ -33,5 +33,5 @@
 </br>
 
 
- <h5 align="center">Nunca é tarde para realizar e seguir seus sonhos.</h5> 
+ <h5 align="center">Nunca é tarde para seguir e realizar seus sonhos.</h5> 
 
